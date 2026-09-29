@@ -24,3 +24,59 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Root navbar */
+.main-nav {
+  background: #1a1a1a;
+  padding: 12px 20px;
+}
+
+.main-nav ul {
+  display: flex;
+  gap: 24px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.main-nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.main-nav a:hover {
+  text-decoration: underline;
+}
+
+/* Submenu navbar */
+.sub-nav {
+  background: #f5f5f5;
+  border-bottom: 1px solid #ddd;
+  padding: 10px 20px;
+  margin-top: 10px;
+}
+
+.sub-nav ul {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.sub-nav a {
+  color: #333;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.sub-nav a:hover {
+  text-decoration: underline;
+}
+
+/* Content spacing */
+.main-content,
+.sub-content {
+  padding: 20px;
+}

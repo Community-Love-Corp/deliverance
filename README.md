@@ -1,6 +1,48 @@
+
+## About  
+
+Detail Starter Technical Documentation can be found in folder:
+
+```bash
+./cookbook/DynamicReconfigStartup.md
+./cookbook/FirstNextJsProject.md
+./cookbook/NeonManuallySetupPrismaDB.md
+./cookbook/NextJs-FirstUiPageWithDb.md
+./cookbook/NextJs-FirstNavBar.md
+```
+
+See Annex A for 'Getting Started' documentation.
+
+## Versions 
+
+### Version 0.01 Initate Project
+28 September 2026 18:09- First creation.
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+### Version 1.00 Starter template
+29 September 2026 20:00- First page created with operational DB connection and menus operational:
+
+a.  Top Menu
+
+![Top Menu](./cookbook/screenshots/homeNavbar.jpg)
+
+b. Sub Menu for about
+
+![About Submenu](./cookbook/screenshots/navBarSubmenuAbout.jpg)
+
+c. Sub Menu in use
+
+![About Submenu in use](./cookbook/screenshots/navBarSubmenuAboutTeam.jpg)
+
+d. DB operational
+
+![db operational](./cookbook/screenshots/PostGresDbOperational.jpg)
+
+## Annextures 
+
+### Annex A: Getting Started
 
 First, run the development server:
 
@@ -34,8 +76,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-
-## Versions 
-
-### Version 0.01
-28 September 2026 18:09- First creation.
