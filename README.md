@@ -9,6 +9,7 @@ Detail Starter Technical Documentation can be found in folder:
 ./cookbook/NeonManuallySetupPrismaDB.md
 ./cookbook/NextJs-FirstUiPageWithDb.md
 ./cookbook/NextJs-FirstNavBar.md
+./cookbook/NextJs-NetlifyDeployment.md
 ```
 
 See Annex A for 'Getting Started' documentation.
@@ -19,7 +20,7 @@ See Annex A for 'Getting Started' documentation.
 28 September 2026 18:09- First creation.
 
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-fnext-app).
 
 ### Version 1.00 Starter template
 29 September 2026 20:00- First page created with operational DB connection and menus operational:
@@ -64,7 +65,7 @@ c. Prod
 https://sustainablewebservices.netlify.app/
 
 
-![Netlify prod operational ](./screenshots/ProdDbWorking.jpg)
+![Netlify prod operational ](./cookbook/screenshots/ProdDbWorking.jpg)
 
 ### Version 2.01 Polish
 
