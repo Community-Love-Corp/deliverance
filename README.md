@@ -7,7 +7,7 @@
 
 <p align="justify">
   <em style="color: red;">
- Hence, in accordance with my IEEE membership's Code of Ethics, all development for Production Environment has occured with zero utilisation of "Agentic AI workers". Purchase my 2025 <a href="https://www.blog.systematicdefence.tech">'Future of IT for next ten years'</a> research grade article  (Submitted to IEEE) for details.
+ Hence, in accordance with my IEEE membership's Code of Ethics, all development for Production Environment has occured with zero utilisation of "Agentic AI workers". Purchase my 2025 <a href="https://www.blog.systematicdefence.tech">'Future of IT for next ten years'</a> research grade  NZ$49.99 article  (also submitted to IEEE), for details.
   </em>
 </p>
 
