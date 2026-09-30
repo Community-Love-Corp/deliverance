@@ -1,6 +1,16 @@
-$${\color{red} DISCLAIMER: \space The \space Developers \space wish \space to \space acknowledge \space that \space Aritificial \space Intelligence \space is \space at \space best \space an \space ethical \space 'grey \space area', \space while \space 'Agentic \space AI' \space is \space 'unethical'. }$$
 
-$${\color{red} \space Hence, \space in \space accordance \space with \space IEEE \space Code \space of \space Ethics, \space all \space development \space for \space Production \space Environment \space has \space occured \space with \space zero \space utilisation \space of \space "Agentic \space AI \space workers". \space Purchase \space <a href="https://www.blog.systematicdefence.tech">article</a> \space for \space details }$$
+<p align="justify">
+  <em style="color: red;">
+    DISCLAIMER: The Developers wish to acknowledge that Artificial Intelligence is at best an ethical 'grey area', while 'Agentic AI' is 'Unethical'.
+  </em>
+</p>
+
+<p align="justify">
+  <em style="color: red;">
+ Hence, in accordance with my IEEE membership's Code of Ethics, all development for Production Environment has occured with zero utilisation of "Agentic AI workers". Purchase my 2025 <a href="https://www.blog.systematicdefence.tech">'Future of IT for next ten years'</a> research grade article  (Submitted to IEEE) for details.
+  </em>
+</p>
+
 
 ## About  
 
