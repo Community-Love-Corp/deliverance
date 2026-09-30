@@ -1,5 +1,8 @@
+//Explicitly tell Next.js not to build it as a static page, as Next.js tries to statically compile your /testing/database page during the build phase, but it cannot read Netlify environment variables at that moment. 
+export const dynamic = 'force-dynamic';
+
 import { time } from 'console';
-import { getDatabaseTime } from '../../../db';
+import { getDatabaseTime } from '../../../logicLayer/dbTest';
 export default async function Home() {
 	let outcome = "";
 	try {

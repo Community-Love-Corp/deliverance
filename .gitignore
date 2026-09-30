@@ -47,3 +47,7 @@ next-env.d.ts
 /cookbook/NeonManuallySetupPrismaDB.md
 /cookbook/NextJs-FirstUiPageWithDb.md
 /cookbook/NextJs-FirstNavBar.md
+/cookbook/NextJs-NetlifyDeployment.md
+/cookbook/sensitive-screenshots
+# Local Netlify folder
+.netlify

@@ -23,6 +23,7 @@ export default function AboutLayout({
 // app/about/layout.tsx
 import Link from "next/link";
 import "../globals.css";
+import { Suspense } from "react";
 export default function AboutLayout({ children }: { children: React.ReactNode }) {
   return (
     <section>
@@ -35,7 +36,7 @@ export default function AboutLayout({ children }: { children: React.ReactNode })
       </nav>
 
       <div className="sub-content">
-        {children}
+        <Suspense fallback={<div>Loading...</div>}> {children} </Suspense>
       </div>
     </section>
   );

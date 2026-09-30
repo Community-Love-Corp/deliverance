@@ -1,16 +1,19 @@
-import { neon } from '@neondatabase/serverless';
-import * as dotenv from 'dotenv';
+import { neon, type NeonQueryFunction } from '@neondatabase/serverless';
 
-//Load environment variables from .env file
-dotenv.config();
+// Explicitly type the client instead of using 'any'
+let sqlClient: NeonQueryFunction<boolean, boolean> | null = null;
 
-// Create the SQL connection client
-const sql = neon(process.env.DATABASE_URL!);
-
-//Example async query function getDatabaseTime()
-export async function getDatabaseTime(){
-	const result = await sql`SELECT NOW();`;
-	return result;
+export function getSqlClient(): NeonQueryFunction<boolean, boolean> {
+  if (!sqlClient) {
+    const url = process.env.DATABASE_URL;
+    
+    if (!url) {
+      // Safe fallback string prevents the builder from crashing on missing URLs
+      console.warn("Warning: DATABASE_URL is missing during build context.");
+      return neon("postgresql://placeholder_for_build_step");
+    }
+    
+    sqlClient = neon(url);
+  }
+  return sqlClient;
 }
-
-

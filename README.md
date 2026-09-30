@@ -40,6 +40,28 @@ d. DB operational
 
 ![db operational](./cookbook/screenshots/PostGresDbOperational.jpg)
 
+### Version 2.00 Starter template with Netlify deployment
+
+30 September 2026 : Deployment operational locally and in Prod, via Netlify
+
+a. Local
+
+i. UI
+![local UI operational](./cookbook/screenshots/netlifyOperational.jpg)
+
+ii. cmd
+![local cmd operational](./cookbook/screenshots/netlify-successful.jpg)
+
+
+b. Prod test locally
+
+Proves that the build passes, and the error is plainly due to build workers, which are a recent addition in the compiler, i.e. not present in Prod.
+
+![Netlify Prod should work](./cookbook/screenshots/build-worker-error.jpg)
+
+c. Prod
+
+
 ## Annextures 
 
 ### Annex A: Getting Started

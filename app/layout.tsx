@@ -2,6 +2,9 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import Link from "next/link";
+import { Suspense } from "react";
+
+
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -30,20 +33,23 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
 }
 */
 
+
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
-      <body>
-        <nav className="main-nav">
-          <ul>
-            <li><Link href="/">Home</Link></li>
-            <li><Link href="/about">About</Link></li>
-            <li><Link href="/license">License</Link></li>
-          </ul>
-        </nav>
+      <body>        
+	      <nav className="main-nav">
+	        <ul>
+	          <li><Link href="/">Home</Link></li>
+	          <li><Link href="/about">About</Link></li>
+	          <li><Link href="/license">License</Link></li>
+	        </ul>
+	      </nav>
 
         <main className="main-content">
-          {children}
+		<Suspense fallback={<div>Loading...</div>}> {children} </Suspense>
+
         </main>
       </body>
     </html>
