@@ -1,3 +1,6 @@
+$${\color{red} DISCLAIMER: \space The \space Developers \space wish \space to \space acknowledge \space that \space Aritificial \space Intelligence \space is \space at \space best \space an \space ethical \space 'grey \space area', \space while \space 'Agentic \space AI' \space is \space 'unethical'. }$$
+
+$${\color{red} \space Hence, \space in \space accordance \space with \space IEEE \space Code \space of \space Ethics, \space all \space development \space for \space Production \space Environment \space has \space occured \space with \space zero \space utilisation \space of \space "Agentic \space AI \space workers". \space Purchase \space <a href="https://www.blog.systematicdefence.tech">article</a> \space for \space details }$$
 
 ## About  
 
@@ -67,9 +70,9 @@ https://sustainablewebservices.netlify.app/
 
 ![Netlify prod operational ](./cookbook/screenshots/ProdDbWorking.jpg)
 
-### Version 2.01 Polish
+#### Version 2.01 Polish
 
-App Name updated in layout.tsx (global), and added a license.md
+30 September 2026 : App Name updated in layout.tsx (global), and added a license.md. Disclaimer Added to README.md top, in hotfix.
 
 
 ## Annextures 
