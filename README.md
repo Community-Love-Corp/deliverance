@@ -63,6 +63,14 @@ c. Prod
 
 https://sustainablewebservices.netlify.app/
 
+
+![Netlify prod operational ](./screenshots/ProdDbWorking.jpg)
+
+### Version 2.01 Polish
+
+App Name updated in layout.tsx (global), and added a license.md
+
+
 ## Annextures 
 
 ### Annex A: Getting Started

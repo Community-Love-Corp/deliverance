@@ -17,9 +17,9 @@ const nextConfig: NextConfig = {
   },
   experimental: {
     // Force production builds to use standard Webpack while leaving Turbopack for your dev server
-    turbo: {
-      rules: {}
-    }
+  //  turbo: {
+  //    rules: {}
+  //  }
   }
 };
 
