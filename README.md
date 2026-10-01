@@ -1,11 +1,11 @@
 
-<p align="justify">
+<p align="center">
   <em style="color: red;">
     DISCLAIMER: The Developers wish to acknowledge that Artificial Intelligence is at best an ethical 'grey area', while 'Agentic AI' is 'Unethical'.
   </em>
 </p>
 
-<p align="justify">
+<p align="center">
   <em style="color: red;">
  Hence, in accordance with my IEEE membership's Code of Ethics, all development for Production Environment has occured with zero utilisation of "Agentic AI workers". Purchase my 2025 <a href="https://www.blog.systematicdefence.tech">'Future of IT for next ten years'</a> research grade  NZ$49.99 article  (also submitted to IEEE), for details.
   </em>
@@ -17,15 +17,16 @@
 Detail Starter Technical Documentation can be found in folder:
 
 ```bash
-./cookbook/DynamicReconfigStartup.md
-./cookbook/FirstNextJsProject.md
-./cookbook/NeonManuallySetupPrismaDB.md
-./cookbook/NextJs-FirstUiPageWithDb.md
-./cookbook/NextJs-FirstNavBar.md
-./cookbook/NextJs-NetlifyDeployment.md
+/cookbook/FirstNextJsProject.md
+/cookbook/NeonManuallySetupPrismaDB.md
+/cookbook/NextJs-FirstUiPageWithDb.md
+/cookbook/NextJs-FirstNavBar.md
+/cookbook/NextJs-NetlifyDeployment.md
+/cookbook/HowToUseMermaidFlowcharts.md
+/cookbook/WhatsOnOfferSummary.md
 ```
 
-See Annex A for 'Getting Started' documentation.
+See Annex A for 'Next.js Framework's Getting Started' documentation.
 
 ## Versions 
 
@@ -84,6 +85,9 @@ https://sustainablewebservices.netlify.app/
 
 30 September 2026 : App Name updated in layout.tsx (global), and added a license.md. Disclaimer Added to README.md top, in hotfix.
 
+#### Version 3.00 [Proof of Concept](./cookbook/WhatsOnOfferSummary.md) completed successfully
+
+01 October 2026 : Design and implementation completed to make POC, a Minimal Viable Product (MVP) for this sprint. 
 
 ## Annextures 
 

@@ -42,12 +42,15 @@ next-env.d.ts
 
 ## project
 /cookbook/DynamicReconfigStartup.md
-/cookbook/DynamicReconfigStartup.md
+/cookbook/DesignsBrainstorming.md
 /cookbook/FirstNextJsProject.md
 /cookbook/NeonManuallySetupPrismaDB.md
 /cookbook/NextJs-FirstUiPageWithDb.md
 /cookbook/NextJs-FirstNavBar.md
 /cookbook/NextJs-NetlifyDeployment.md
 /cookbook/sensitive-screenshots
+/cookbook/WhatsOnOffer.md
+/cookbook/HowToUseMermaidFlowcharts.md
+/cookbook/Nextjs-FirstDeploymentWthVercel.md
 # Local Netlify folder
 .netlify

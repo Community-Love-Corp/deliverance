@@ -1,0 +1,1 @@
+![Dynamic Reconfiguration of Backend Web Services](./screenshots/DynamicReconfigOfWebServices.png)
