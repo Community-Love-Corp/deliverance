@@ -141,7 +141,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 </p>
 
 <p>
-    However, chasing AI today in a similar manner to outsourcing yesterday is not comparing 'apples with apples'. At least with 'outsourcing', we were handing decision making to other humans, and legal frameworks like United Nations exist to provide at least oversight at a macro level there. With AI, Human society is handing over critical decisions, right under our noses to autonomous systems, without considering ethical and practical impacts (Proyas, 2004). It has a chance of working of course, and that is why the profit chasing attitudes are blindly walking over common sense to seek it, in anticipation that the laws will catch up. The blind ambition behind profit chasing attitudes driving AI today can summed up by this quote from my favourite book:
+    However, chasing AI today in a similar manner to outsourcing yesterday is not comparing 'apples with apples'. At least with 'outsourcing', we were handing decision making to other humans, and legal frameworks like United Nations exist to provide at least oversight at a macro level there. With AI, Human society is handing over critical decisions, right under our noses to autonomous systems, without considering ethical and practical impacts (Proyas, 2004). It has a chance of working of course, and that is why the profit chasing attitudes are blindly walking over common sense to seek it, in anticipation that the laws will catch up. The blind ambition behind profit chasing attitudes driving AI today can summed up by this quote:
 
 
 
