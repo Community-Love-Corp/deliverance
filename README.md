@@ -84,6 +84,7 @@ https://sustainablewebservices.netlify.app/
 
 30 September 2026 : App Name updated in layout.tsx (global), and added a license.md. Disclaimer Added to README.md top, in hotfix.
 
+Hotfix 1: Mon 26 Oct 2026: Improved About>Team page. Updated env variable also across environments.
 
 ## Annextures 
 

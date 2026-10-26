@@ -80,3 +80,11 @@ body {
 .sub-content {
   padding: 20px;
 }
+
+.auth-box-main img.auth-img {
+  max-width: 100%;   /* stay within the auth-box-main width */
+  width: auto;       /* let the browser decide natural width up to 100% */
+  height: auto;      /* keep aspect ratio */
+  display: block;
+  margin: 0 auto;    /* center inside the box */
+}

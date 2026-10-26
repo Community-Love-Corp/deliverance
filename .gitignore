@@ -51,3 +51,11 @@ next-env.d.ts
 /cookbook/sensitive-screenshots
 # Local Netlify folder
 .netlify
+# personal videos
+public/ThankyouGod.mp4
+public/mux-signing-key-061.pem
+
+#Testing
+acceptance-tests-poc
+cookbook/Gradle/FirstSuccessfulFullCucumberTest.png
+cookbook/Gradle/NextJs-CreateJavaAPIBackendAndIntegrate.md
